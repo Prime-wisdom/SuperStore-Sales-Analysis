@@ -108,7 +108,7 @@ Specifically, the business could not answer:
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Screenshots/executive_overview.png)
+![Executive Overview](executive_overview.png)
 
 ### Time Analysis
 ![Time Analysis](Screenshots/time_analysis.png)
