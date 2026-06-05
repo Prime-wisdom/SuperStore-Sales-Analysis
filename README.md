@@ -111,13 +111,13 @@ Specifically, the business could not answer:
 ![Executive Overview](executive_overview.png)
 
 ### Time Analysis
-![Time Analysis](Screenshots/time_analysis.png)
+![Time Analysis](time_analysis.png)
 
 ### State & Regional Performance
-![State Regional](Screenshots/state_regional.png)
+![State Regional](state_regional.png)
 
 ### Discount Analysis
-![Discount Analysis](Screenshots/discount_analysis.png)
+![Discount Analysis](discount_analysis.png)
 
 ---
 
